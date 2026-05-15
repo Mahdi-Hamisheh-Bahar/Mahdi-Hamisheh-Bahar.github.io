@@ -13,7 +13,7 @@ title                    : "Mahdi Hamisheh Bahar – Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Mahdi Hamisheh Bahar"
 description              : &description "PhD Candidate in Operations Management | University of Lille & IESEG"
-url                      : https://Mahdi-Hamisheh-Bahar.github.io
+url                      : https://Mahdi-Hamisheh-Bahar.com
 baseurl                  : ""
 repository               : "Mahdi-Hamisheh-Bahar/Mahdi-Hamisheh-Bahar.github.io"
 
@@ -30,18 +30,18 @@ author:
   email            : "mahdihamish.mh@gmail.com"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=YqnKGG8AAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  # inspire-hep      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-7531-8253"
-  semantic         : # URL
+  # semantic         : # URL
   ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7759091"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : ""
   researchgate     : "https://www.researchgate.net/profile/Mahdi-Hamisheh-Bahar-2"
-  scopus           : # URL
-  zotero           : # URL
+  # scopus           : # URL
+  # zotero           : # URL
   linkedin         : "mahdi-hamisheh-bahar-426bb3213"
 
 
