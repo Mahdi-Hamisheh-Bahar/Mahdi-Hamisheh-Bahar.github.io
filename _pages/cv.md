@@ -20,7 +20,7 @@ Optimization, Applied Statistics, Mathematical Programming, Artificial Intellige
 ## Selected Projects
 - **Airline Passenger Satisfaction Analysis** (Sharif UT, 2023)  
 - **Quay Crane Sequencing & Scheduling** – simulation & metaheuristics (Sharif UT, 2022)  
-- **Bank Customer Churn & Lifetime Value Modeling** (Sharif UT, 2024)  
+- **Bank Customer Churn & Lifetime Value Modeling** (2024)  
 - **Cabin Novin Elevator Facility Design** (Kharazmi University, 2020–2021)  
 - **Electronics Store Inventory Management** (Kharazmi University, 2021)  
 
