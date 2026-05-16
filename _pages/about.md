@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Mahdi:
-======
+
 I am a PhD candidate in Operations Management at the University of Lille (LEM) and IESEG School of Management. My work focuses on optimization, machine learning, and causal inference, especially in applications related to healthcare, supply chains, and complex decision-making systems.
 
 I previously worked as a teaching and research assistant at institutions including Sharif University of Technology and Kharazmi University. Through both research and teaching, I have developed a strong interest in combining rigorous quantitative methods with practical real-world challenges.
