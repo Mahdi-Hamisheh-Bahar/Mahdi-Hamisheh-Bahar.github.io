@@ -9,56 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **Ph.D in Operations Management** – University of Lille & IESEG (2025–Present)  
+- **M.Sc. in Industrial Engineering** – Sharif University of Technology (2022–2024) | GPA: 4.00/4.00  
+- **B.Sc. in Industrial Engineering** – Kharazmi University (2018–2022) | GPA: 3.78/4.00  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
+Optimization, Applied Statistics, Mathematical Programming, Artificial Intelligence (ML/DL), with applications in healthcare, supply chain, finance, manufacturing, and marketing.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Selected Projects
+- **Airline Passenger Satisfaction Analysis** (Sharif UT, 2023)  
+- **Quay Crane Sequencing & Scheduling** – simulation & metaheuristics (Sharif UT, 2022)  
+- **Bank Customer Churn & Lifetime Value Modeling** (Sharif UT, 2024)  
+- **Cabin Novin Elevator Facility Design** (Kharazmi University, 2020–2021)  
+- **Electronics Store Inventory Management** (Kharazmi University, 2021)  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For more details, publications, and professional updates, feel free to take a look at my [LinkedIn profile](https://www.linkedin.com/in/mahdi-hamisheh-bahar-426bb3213/).
