@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 - **Ph.D in Operations Management** – University of Lille & IESEG (2025–Present)  
-- **M.Sc. in Industrial Engineering** – Sharif University of Technology (2022–2024) | GPA: 4.00/4.00  
+- **M.Sc. in Industrial Engineering** – Sharif University of Technology (2022–2025) | GPA: 4.00/4.00  
 - **B.Sc. in Industrial Engineering** – Kharazmi University (2018–2022) | GPA: 3.78/4.00  
 
 ## Research Interests
