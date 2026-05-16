@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Mahdi Hamisheh Bahar personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to Mahdi Hamisheh Bahar personal website!
+About Mahdi:
 ======
 I am a PhD candidate in Operations Management at the University of Lille (LEM) and IESEG School of Management. My work focuses on optimization, machine learning, and causal inference, especially in applications related to healthcare, supply chains, and complex decision-making systems.
 
